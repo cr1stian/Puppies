@@ -1,0 +1,69 @@
+*{
+  margin: 0px;
+}
+
+
+.top{
+  background-color: orange;
+
+}
+.header{
+  text-align: center;
+  color: white;
+}
+
+.button-1{
+  display: inline;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid white;
+  margin: 5px 5px 15px 0px;
+}
+.button-2{
+  display: inline;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid white;
+  margin: 5px 5px 15px 0px;
+}
+.button-3{
+  display: inline;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid white;
+  margin: 5px 5px 15px 0px;
+}
+.head-intro{
+  color: #2171f2;
+}
+.reasons-header{
+  color: #2171f2;
+}
+.top-row{
+  background-color: #2171f2;
+  color: white;
+}
+.table-head{
+  color: #2171f2;
+}
+td, th {
+    border: 1px solid lightblue;
+    text-align: left;
+    padding: 8px;
+}
+.footer-header{
+  color: #2171f2;
+}
+.back-box{
+  background-color: lightgrey;
+}
+.Form{
+  background-color: orange;
+  padding: 10px;
+  margin: 0px 0px 10px 0px;
+}
+button{
+  color: white;
+  background-color: #2171f2;
+  padding: 4px;
+}
